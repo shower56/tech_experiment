@@ -1,0 +1,14 @@
+{
+  "user": {
+    "name": "김영희",
+    "email": "kim@example.com",
+    "roles": [
+      "admin",
+      "user"
+    ]
+  },
+  "settings": {
+    "theme": "dark",
+    "notifications": true
+  }
+}

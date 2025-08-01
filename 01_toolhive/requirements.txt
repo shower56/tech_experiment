@@ -1,0 +1,3 @@
+# ToolHive 테스트를 위한 필수 패키지
+typing
+logging
