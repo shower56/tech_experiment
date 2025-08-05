@@ -1,0 +1,5 @@
+fastmcp==2.11.1
+uvicorn
+aiohttp
+requests
+playwright==1.54.0
