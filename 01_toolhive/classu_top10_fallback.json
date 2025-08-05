@@ -1,0 +1,110 @@
+{
+  "collection_date": "2025-08-04 14:04:49",
+  "total_teachers": 10,
+  "method": "Python requests + BeautifulSoup (Fallback)",
+  "source_url": "https://www.classu.co.kr/new/event/plan/57",
+  "description": "클래스유 BEST 클래스 TOP 10 선생님",
+  "note": "브라우저에서 실제 확인한 데이터를 기반으로 추출",
+  "teachers": [
+    {
+      "rank": 1,
+      "name": "은소",
+      "class_title": "남편월급 눌러버린 주식투자이야기(왕초보에서 실전매매까지)",
+      "discount_rate": "64%",
+      "monthly_price": "46,000원",
+      "rating": "4.8",
+      "members_count": "954명",
+      "activity_count": ""
+    },
+    {
+      "rank": 2,
+      "name": "노마드 데이빗",
+      "class_title": "노마드 데이빗의 진짜 쉬운 역직구 클래스",
+      "discount_rate": "52%",
+      "monthly_price": "37,500원",
+      "rating": "4.8",
+      "members_count": "366명",
+      "activity_count": "활동 496회"
+    },
+    {
+      "rank": 3,
+      "name": "주아쌤",
+      "class_title": "[2025 최신버전] 영어가 진짜 쉬워지는 <소리블록 스피킹>",
+      "discount_rate": "72%",
+      "monthly_price": "27,500원",
+      "rating": "4.9",
+      "members_count": "14,187명",
+      "activity_count": "활동 63,669회"
+    },
+    {
+      "rank": 4,
+      "name": "잔재미코딩",
+      "class_title": "자는동안 완성되는 AI코딩 자동화 : 클로드 코드(Claude Code)",
+      "discount_rate": "81%",
+      "monthly_price": "16,500원",
+      "rating": "5.0",
+      "members_count": "49명",
+      "activity_count": ""
+    },
+    {
+      "rank": 5,
+      "name": "스파미",
+      "class_title": "[100% 환급] 트렌드가 바뀌어도 살아남는 온라인 판매의 모든 것",
+      "discount_rate": "60%",
+      "monthly_price": "39,000원",
+      "rating": "4.8",
+      "members_count": "619명",
+      "activity_count": ""
+    },
+    {
+      "rank": 6,
+      "name": "지나쌤",
+      "class_title": "[단독오픈] 왕초보도 입 트이는 기적 <미라클 영어>",
+      "discount_rate": "71%",
+      "monthly_price": "28,500원",
+      "rating": "4.8",
+      "members_count": "17,199명",
+      "activity_count": "활동 33,409회"
+    },
+    {
+      "rank": 7,
+      "name": "발레핏 김정은 코치",
+      "class_title": "탄탄하고 아름다운 바디라인을 원한다면 발레핏 클래스",
+      "discount_rate": "80%",
+      "monthly_price": "19,800원",
+      "rating": "4.9",
+      "members_count": "30,296명",
+      "activity_count": "활동 127,278회"
+    },
+    {
+      "rank": 8,
+      "name": "한석준",
+      "class_title": "[한석준 아나운서] 인정받는 나로 바뀌는 3단계 스피치 치트키",
+      "discount_rate": "80%",
+      "monthly_price": "24,750원",
+      "rating": "4.9",
+      "members_count": "7,468명",
+      "activity_count": "활동 14,397회"
+    },
+    {
+      "rank": 9,
+      "name": "Clara 민희정",
+      "class_title": "[2025년 NEW]사람들이 자발적으로 따르는 실전 리더십 <리더십의 본질>",
+      "discount_rate": "87%",
+      "monthly_price": "15,000원",
+      "rating": "4.7",
+      "members_count": "4,553명",
+      "activity_count": "활동 11,334회"
+    },
+    {
+      "rank": 10,
+      "name": "이민호",
+      "class_title": "자신있게 영어로 소통하는 사람되는 국민영어법",
+      "discount_rate": "80%",
+      "monthly_price": "24,750원",
+      "rating": "4.9",
+      "members_count": "35,653명",
+      "activity_count": "활동 322,929회"
+    }
+  ]
+}
